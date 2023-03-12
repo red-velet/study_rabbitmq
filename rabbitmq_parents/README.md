@@ -1,0 +1,1 @@
+# RabbitMQ工作模式的五种工作模式的code demo
